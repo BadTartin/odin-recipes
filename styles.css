@@ -1,0 +1,17 @@
+/* styles.css */
+
+* {
+    font-family: "Playfair Display", Palatino, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
